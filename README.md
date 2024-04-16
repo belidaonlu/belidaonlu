@@ -1,6 +1,6 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/03/32/21/56/1000_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)
 
-<h1 align="center">Hi, I'm Belida</h1>
+<h1 align="center">Hi, I'm Belida </h1>
 <h3 align="center">Jr.Frontend Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
