@@ -8,9 +8,8 @@
 <a href="https://codepen.io/nuronlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nuronlu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/belida onlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belida onlu" height="30" width="40" /></a>
 <a href="https://dribbble.com/belida onlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="belida onlu" height="30" width="40" /></a>
-<a href="https://medium.com/nuronlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nuronlu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nuronlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nuronlu" height="30" width="40" /></a>
-<a href="https://discord.gg/nuronlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nuronlu" height="30" width="40" /></a>
+<a href="https://medium.com/belidaonlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nuronlu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/belidaonlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nuronlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
