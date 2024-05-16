@@ -1,7 +1,9 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/03/32/21/56/1000_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)
  
 <h1 align="center">Hi, I'm Belida </h1>
-<h3 align="center">Jr.Frontend Developer from Turkey</h3>
+<h3 align="center">Jr. Frontend Developer from Turkey</h3>
+<p align="center">As a junior front-end developer who is newly venturing into the technology sector, I develop
+projects using HTML, CSS, JavaScript, and React.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
