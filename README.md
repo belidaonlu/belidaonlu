@@ -26,7 +26,7 @@ projects using HTML, CSS, JavaScript, and React.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belidaonlu&show_icons=true&locale=en" alt="belidaonlu" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belidaonlu&" alt="belidaonlu" /></p>
-</div>>
+</div>
 
 
 
